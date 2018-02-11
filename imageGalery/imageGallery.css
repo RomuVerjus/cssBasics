@@ -1,0 +1,19 @@
+#header {
+    width: 30%;
+    margin-left: 2.5%;
+    border-bottom: 2px solid gray;
+}
+
+#header h1 {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: bold;
+    font-size: 2em; 
+    text-transform: uppercase;
+}
+
+img {
+    float: left;
+    width: 30%;
+    margin-left: 2.5%;
+    margin-top: 2.5%;
+}
